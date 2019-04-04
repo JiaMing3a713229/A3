@@ -1,3 +1,4 @@
+//test by 3a713229
 #include<stdio.h>
 #include<stdlib.h>
 int main(void){
@@ -34,4 +35,4 @@ int main(void){
 	printf("bouns:%d",bouns);
 	return 0;
 	system("pause");
-} 
+}
