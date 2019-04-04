@@ -10,8 +10,8 @@ int main(void){
 	scanf("%d",&input_num);
 	bouns0=100000*0.1;
 	bouns1=bouns0+100000*0.075;//0.1%  100k~200k
-	bouns2=bouns1+200000*0.05;//0.075 200k~400k
-	bouns4=bouns2+200000*0.03;//0.05 400k~600k
+	bouns2=bouns1+200000*0.05; //0.075 200k~400k
+	bouns4=bouns2+200000*0.03; //0.05 400k~600k
 	bouns6=bouns4+400000*0.015;//0.015 600k~1000k
 	//§PÂ_ª÷ÃB
 	if(input_num<100000){
